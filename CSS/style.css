@@ -12,4 +12,12 @@ section {
     min-height: 100vh;
     padding: 100px;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+}
+
+header {
+    position: absolute;
+    top: ;
 }
