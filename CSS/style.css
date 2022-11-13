@@ -28,6 +28,12 @@ header {
     align-items: center;
 }
 
-header .logo {
+header.logo {
     position: relative;
+    max-width: 100px;
+}
+
+header ul {
+    position: relative;
+    display: flex;
 }
