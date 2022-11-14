@@ -1,5 +1,5 @@
 * h1 {
-    color: rgb(27, 219, 27);
+    color: rgba(15, 109, 138, 0.623);
     text-align: center;
 }
 
@@ -15,7 +15,7 @@
 
 #menu {
     height: 50px;
-    background: #DDA3AD;
+    background: #767d96;
 }
 
 #menu ul {
@@ -37,5 +37,5 @@
 }
 
 #contenido {
-    background: #8885b3;
+    background: #b3b2bd;
 }
