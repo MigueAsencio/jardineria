@@ -3,7 +3,10 @@
     text-align: center;
 }
 
-#contenedor {}
+#contenedor {
+    width: 1100px;
+    margin: 0 auto;
+}
 
 #encabezado {
     height: 250px;
