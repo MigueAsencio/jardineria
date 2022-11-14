@@ -3,6 +3,8 @@
     text-align: center;
 }
 
+#contenedor {}
+
 #encabezado {
     height: 250px;
     background: #43ac92;
