@@ -9,33 +9,10 @@
 }
 
 #encabezado {
-    height: 150px;
+    height: 120px;
     background: #43ac92;
 }
 
-#menu {
-    height: 50px;
-    background: #30af74;
-}
-
-#menu ul {
-    list-style: none;
-}
-
-#menu ul li {
-    float: left;
-    margin: 0 15px;
-    padding: 10px;
-}
-
-#menu a {
-    text-decoration: none;
-}
-
-#menu a:hover {
-    text-shadow: #43ac92;
-}
-
 #contenido {
-    background: #b3b2bd;
+    background: #a8bac2;
 }
