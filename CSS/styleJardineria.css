@@ -1,0 +1,18 @@
+* h1 {
+    color: rgba(15, 109, 138, 0.623);
+    text-align: center;
+}
+
+#contenedor {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+#encabezado {
+    height: 120px;
+    background: #43ac92;
+}
+
+#contenido {
+    background: #a8bac2;
+}
