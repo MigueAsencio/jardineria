@@ -1,10 +1,9 @@
 * h1 {
     color: rgb(27, 219, 27);
-    left: 200px;
+    text-align: center;
 }
 
 #encabezado {
     height: 250px;
-    background: rgba(8, 34, 148, 0);
-    ;
+    background: #43ac92;
 }
